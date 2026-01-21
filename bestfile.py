@@ -4,7 +4,8 @@ print(y)
 
 print("chocolate")
 
-
 print("dangit")
+print("wtf just happened")
+
 x = 9999
 print(x)
